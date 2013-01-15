@@ -4,7 +4,7 @@
 
 void main(void){
 	int x, y, sum;
-	x = 25;
+	x = 30;
     y = 37;
 	sum = x + y;
 	printf("%d‚Æ%d‚ğ‘«‚µ‚½’l‚Í%d‚Å‚·B\n",x ,y ,sum);
